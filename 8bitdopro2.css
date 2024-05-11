@@ -1,11 +1,11 @@
 .controller.custom{
-    background-image: url(base.svg);
+    background-image: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/base.svg);
     height: 692px;
     width: 758px;
 }
 
 .custom.disconnected {
-    background-image: url(disconnected.svg);
+    background-image: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/disconnected.svg);
 }
 
 .custom.disconnected div {
@@ -22,7 +22,7 @@
 .custom .trigger {
     width:118px;
     height:119px;
-    background: url(trigger.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/trigger.svg);
     opacity: 1;
 }
 
@@ -51,7 +51,7 @@
 .custom .bumper {
     width: 124px;
     height: 53px;
-    background: url(bumper.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/bumper.svg);
     opacity: 0;
 }
 
@@ -98,13 +98,13 @@
 }
 
 .custom .back {
-    background: url(start-select.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/start-select.svg);
     width: 77px;
     height: 36px;
     opacity: 0;
 }
 .custom .start {
-    background: url(start-select.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/start-select.svg);
     width: 62px;
     height: 36px;
     opacity: 0;
@@ -133,7 +133,7 @@
 
 .custom .button {
     position: absolute;
-    background: url(buttons.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/buttons.svg);
     width: 50px;
     height: 50px;
     /* display: none; */
@@ -178,7 +178,7 @@
 
 .custom .stick {
     position: absolute;
-    background: url(stick.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/stick.svg);
     background-position: 0px 0;
     height: 84px;
     width: 84px;
@@ -207,7 +207,7 @@
 }
 
 .custom .face {
-    background: url(dpad.svg);
+    background: url(https://raw.githubusercontent.com/gist/JotaGo/84e9c728a259d4b40e9fe969ae1aec00/raw/8b6885e41cec3679e26a3a9b05f9dd6e53133df9/dpad.svg);
     position: absolute;
     opacity: 0;
 }
